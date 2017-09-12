@@ -1,0 +1,34 @@
+---
+title: "Mini HW 05 - Data visualization"
+author: "Mine Cetinkaya-Rundel"
+date: "Sep 12, 2017"
+output: 
+  html_document: 
+    fig_height: 4
+    highlight: pygments
+    keep_md: yes
+    theme: sandstone
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Use this template if you will be using R for your assignment. However you're welcomed to use other software as well.**
+
+Load packages:
+
+```{r load-packages, message=FALSE}
+library(readr)
+library(ggplot2)
+library(dplyr)
+```
+
+Load data:
+
+```{r load-data, message=FALSE}
+# add some code to add data
+```
+
+Add code chunks and text as needed to complete your assignment:
+
