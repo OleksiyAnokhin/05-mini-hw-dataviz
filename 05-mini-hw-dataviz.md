@@ -15,11 +15,13 @@ library(ggplot2)
 library(dplyr)
 ```
 
-Load data:
+Load data (uncomment the dataset you're assigned):
 
 
 ```r
-# add some code to add data
+#fishing <- read_csv("data/Fishing_industry_by_country.csv")
+#ise <- read_tsv("data/InstructionalStaffEmployTrends.csv")
+#nerrs <- read_csv("data/NERRS Nutrient Data.csv")
 ```
 
 Add code chunks and text as needed to complete your assignment:
